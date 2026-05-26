@@ -89,4 +89,4 @@ BEGIN
     ENDCASE;
 END_PROGRAM_BLOCK
 
-** These documents are protected under license. **
+**These documents are protected under author license.**
