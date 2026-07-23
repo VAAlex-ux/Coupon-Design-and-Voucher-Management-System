@@ -57,6 +57,9 @@ Proximity photoelectric sensor stationed upstream to register the presence of in
 Sensors 1.1A1 / 1.1A2
 </p>
 
+<p align="center">
+<img width="655" height="557" alt="image" src="https://github.com/user-attachments/assets/fe079851-e950-4386-90b5-ac6ad8ad9a67" />
+</p>
 
 
 
