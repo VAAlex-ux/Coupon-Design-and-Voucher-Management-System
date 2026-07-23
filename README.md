@@ -1,13 +1,13 @@
-Project Type: Independent Engineering Contract / Technical Subcontract
-Role: Lead Automation & Controls Contractor
-Objective: Refine, debug, and optimize material handling escapement sequences for an industrial packaging line.
-Deliverables: PLC Control Logic (SCL), HMI Monitoring Screens, and Commissioning Documentation.
-Status: Successfully commissioned, debugged, and signed off by the end-client.
+**Project Type** Independent Engineering Contract / Technical Subcontract
+**Role** Automation & Controls Contractor
+**Objective** Refine, debug, and optimize material handling escapement sequences for an industrial packaging line.
+**Deliverables** PLC Control Logic (SCL), HMI Monitoring Screens, and Commissioning Documentation.
+**Status** Successfully commissioned, debugged, and signed off by the end-client.
 
-Context & Problem Statement
-I was brought in on a contract basis to address operational bottlenecks on a high-speed packaging conveyor system. The client's existing third-party sequence logic was causing frequent product jams, inconsistent product singulation, and lacked mechanical diagnostics, which resulted in extended downtime when pneumatic components fatigued. The project establishes a standardized control framework for a pneumatic material handling escapement system integrated into a manufacturing conveyor line. The system regulates product flow by detecting incoming packages and utilizing a single-acting pneumatic stopper cylinder to momentarily halt or release items based on adjustable operational parameters.
+**Context & Problem Statement**
+To address operational bottlenecks on a high-speed packaging conveyor system. The client's existing third-party sequence logic was causing frequent product jams, inconsistent product singulation, and lacked mechanical diagnostics, which resulted in extended downtime when pneumatic components fatigued. The project establishes a standardized control framework for a pneumatic material handling escapement system integrated into a manufacturing conveyor line. The system regulates product flow by detecting incoming packages and utilizing a single-acting pneumatic stopper cylinder to momentarily halt or release items based on adjustable operational parameters.
 
-Objective
+**Objective**
 Redesign the control algorithm from scratch using clean-room Structured Control Language (SCL). The target architecture required a modular, timer-controlled escapement sequence capable of direct adjustment via a centralized Siemens HMI, alongside robust fault-handling routines to catch mechanical failures before they caused system pile-ups.
 
 
