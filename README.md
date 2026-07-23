@@ -51,14 +51,14 @@ Proximity photoelectric sensor stationed upstream to register the presence of in
 **D - Schematics**
 
 <p align="center">
-<img width="564" height="203" alt="image" src="https://github.com/user-attachments/assets/a471f7ee-7bca-48de-a2ee-bd0ee69b6696" /> <img width="274" height="343" alt="image" src="https://github.com/user-attachments/assets/a8bd354b-acfc-4350-a61e-ad09f0622eea" />
+<img width="564" height="203" alt="image" src="https://github.com/user-attachments/assets/a471f7ee-7bca-48de-a2ee-bd0ee69b6696" /> <img width="274" height="350" alt="image" src="https://github.com/user-attachments/assets/a8bd354b-acfc-4350-a61e-ad09f0622eea" />
 </p>
 <p align="center">
 Sensors 1.1A1 / 1.1A2
 </p>
 
 <p align="center">
-<img width="450" height="557" alt="image" src="https://github.com/user-attachments/assets/fe079851-e950-4386-90b5-ac6ad8ad9a67" /> <img width="550" height="557" alt="image" src="https://github.com/user-attachments/assets/8f64217e-df2f-44f9-a327-11cd9d7d1e8a" />
+<img width="450" height="557" alt="image" src="https://github.com/user-attachments/assets/fe079851-e950-4386-90b5-ac6ad8ad9a67" /> <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/8f64217e-df2f-44f9-a327-11cd9d7d1e8a" />
 
 </p>
 
