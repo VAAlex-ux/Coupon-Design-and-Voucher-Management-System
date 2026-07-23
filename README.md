@@ -6,7 +6,7 @@ To address operational bottlenecks on a high-speed packaging conveyor system. Th
 
 Redesign the control algorithm from scratch using clean-room Structured Control Language (SCL). The target architecture required a modular, timer-controlled escapement sequence capable of direct adjustment via a centralized Siemens HMI, alongside robust fault-handling routines to catch mechanical failures before they caused system pile-ups.
 
-<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/f38c4940-4946-4a87-ac75-170b4971c9d9" /> <img width="357" height="400" alt="image" src="https://github.com/user-attachments/assets/a67d76ac-11cb-4616-b908-3a806d5125eb" />
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/f38c4940-4946-4a87-ac75-170b4971c9d9" /> <img width="357" height="450" alt="image" src="https://github.com/user-attachments/assets/a67d76ac-11cb-4616-b908-3a806d5125eb" />
 
 
 
