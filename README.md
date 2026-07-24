@@ -68,7 +68,7 @@ Fig.B Sensors 1.1A1 / 1.1A2
 </p>
 
 <p align="center">
-<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/fe079851-e950-4386-90b5-ac6ad8ad9a67" /> <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/8f64217e-df2f-44f9-a327-11cd9d7d1e8a" />
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/fe079851-e950-4386-90b5-ac6ad8ad9a67" /> <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/8f64217e-df2f-44f9-a327-11cd9d7d1e8a" />
 </p>
 <p align="center">
 Fig.C Electrical Connection
